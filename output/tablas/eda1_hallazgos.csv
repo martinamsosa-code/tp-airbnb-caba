@@ -1,0 +1,16 @@
+hallazgo,valor
+% vivienda completa,90.25
+% departamentos o condos enteros,82.3
+% de la oferta en Palermo,32.6
+% en Palermo + Recoleta + San Nicolás,54.29
+% de publicaciones de anfitriones con 1 propiedad,30.6
+% de publicaciones de anfitriones con 10 o más,32.16
+Correlación precio-capacidad,0.53
+Correlación precio-calificación,0.05
+Correlación precio-reseñas,-0
+% de publicaciones sin reseñas,12.39
+% de nulos en calificación,12.39
+Calificación mediana,4.87
+Precio mediano,100152.75
+Precio promedio,123745.32
+% con precio entre $50.000 y $100.000,41.87

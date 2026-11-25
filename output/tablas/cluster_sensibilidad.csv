@@ -1,0 +1,3 @@
+version,n,v_cramer,rand_ajustado_vs_original
+Con outliers,27676,0.10276126062470915,1
+Sin outliers de precio,26192,0.10376965120025211,0.8076760908564111

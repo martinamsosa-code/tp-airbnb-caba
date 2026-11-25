@@ -1,0 +1,5 @@
+tipo_alquiler,n,precio_mediano,precio_q1,precio_q3,capacidad_mediana,ocupacion_mediana
+Vivienda completa,24948,103600,79927.08,142688.91999999998,3,48
+Habitación privada,2465,50994.53,35040.33,78190.62000000001,2,12
+Hotel,136,222895.5,168080.5,307219.25,2,0
+Habitación compartida,130,25405,21245.25,41631.0175,1,11

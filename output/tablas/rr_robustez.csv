@@ -1,0 +1,5 @@
+version,n_segmentos,rho
+Base: segmentos con 30+ viviendas,64,-0.4741812521058389
+Umbral más exigente: 50+ viviendas,53,-0.5618448637316561
+Riesgo medido con el CV del ingreso,64,-0.3693223443223443
+Sin outliers de precio,61,-0.5897829135566102

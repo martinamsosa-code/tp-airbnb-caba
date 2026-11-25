@@ -1,0 +1,5 @@
+prueba,estadistico,gl,p_valor,efecto,medida_efecto,n
+Kruskal-Wallis: ingreso según barrio,729.5765481329921,21,7.429244717393573e-141,0.02842720645643072,épsilon²,24948
+Chi-cuadrado: sin ingreso según barrio,143.14490348335923,21,3.4917529853749315e-20,0.07574780933480477,V de Cramér,24948
+Spearman: ingreso mediano vs % sin ingreso (segmentos),-0.4741812521058389,NA,7.55297982075707e-5,NA,rho,64
+Spearman: ingreso mediano vs CV del ingreso (segmentos),-0.3693223443223443,NA,0.002670669318815919,NA,rho,64

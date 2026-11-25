@@ -1,0 +1,6 @@
+criterio,tipo,n,pct
+Tukey sobre precio en pesos,alto,2108,7.6
+Tukey sobre precio en pesos,normal,25571,92.4
+Tukey sobre log(precio),alto,853,3.1
+Tukey sobre log(precio),bajo,632,2.3
+Tukey sobre log(precio),normal,26194,94.6

@@ -1,0 +1,7 @@
+cluster,perfil,n,pct,precio,capacidad,ocupacion,disponibilidad,estadia_minima,props_anfitrion,pct_habitaciones,pct_superhost,calificacion
+1,Gestión profesional,5489,19.8,118537,2,36,335,2,35,7.7,40.2,4.81
+2,Grandes y caras,2086,7.5,265643.66500000004,6,48,291,2,5,2.8,50.4,4.87
+3,Calendario restringido,6311,22.8,93152,2,28,94,2,2,10.1,36.8,4.89
+4,"Particular, baja ocupación",7174,25.9,92781.065,2,24,335,2,1,14.5,31.4,4.88
+5,Estadías largas,2286,8.3,56713.1,2,28,256,15,2,17.7,31,4.87
+6,Alta ocupación,4330,15.6,93864.16500000001,2,234,256,2,2,3.8,70.4,4.88

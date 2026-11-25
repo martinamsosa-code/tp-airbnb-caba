@@ -1,0 +1,7 @@
+variable,categoria,n,pct
+superhost,FALSE,16089,58.1
+superhost,TRUE,11590,41.9
+tipo_alquiler,Vivienda completa,24948,90.1
+tipo_alquiler,Habitación privada,2465,8.9
+tipo_alquiler,Hotel,136,0.5
+tipo_alquiler,Habitación compartida,130,0.5

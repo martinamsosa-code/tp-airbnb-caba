@@ -1,0 +1,9 @@
+# Archivos de sesión de RStudio: no forman parte del proyecto
+.Rproj.user/
+.Rhistory
+.RData
+.RDataTmp
+.Ruserdata
+**/.Rhistory
+**/.RData
+**/.RDataTmp
