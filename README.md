@@ -56,7 +56,6 @@ proyecto_tp/
 ├── script/           00 a 07, en orden de ejecución
 ├── utils/            funciones propias, una por archivo
 ├── proyecto.Rproj
-├── GUIA_ORAL.md      preguntas probables del oral y respuestas
 └── README.md
 ```
 
@@ -94,6 +93,3 @@ Cada script guarda sus resultados y el siguiente los lee del archivo, así que t
 - **Riesgo-retorno:** entre segmentos de igual tamaño, más ingreso viene con menos publicaciones sin ingreso, no con más (Spearman ρ = −0,47, p < 0,001; se mantiene con otro umbral, otra medida de riesgo y sin outliers). La única excepción visible es Puerto Madero en departamentos de 1–2 personas: tiene el mayor ingreso del tramo, pero el 27% de sus viviendas no registró ingreso (mediana del tramo: 24%).
 - Son asociaciones observadas en una foto del mercado: no identifican causas ni miden rentabilidad.
 
-## 8. Guía para el oral
-
-Ver `GUIA_ORAL.md`.
